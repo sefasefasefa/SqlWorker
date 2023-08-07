@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlWorker", "SqlWorker\SqlWorker.csproj", "{C9D6D3EF-261C-4F10-B048-7984C374DC9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zone_Obje", "Zone_Eclipse\Zone_Obje\Zone_Obje\Zone_Obje.csproj", "{A4E6D2EF-EF4D-4293-92C0-A492E2F0DB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D6D3EF-261C-4F10-B048-7984C374DC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D6D3EF-261C-4F10-B048-7984C374DC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D6D3EF-261C-4F10-B048-7984C374DC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D6D3EF-261C-4F10-B048-7984C374DC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E6D2EF-EF4D-4293-92C0-A492E2F0DB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E6D2EF-EF4D-4293-92C0-A492E2F0DB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E6D2EF-EF4D-4293-92C0-A492E2F0DB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E6D2EF-EF4D-4293-92C0-A492E2F0DB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEF5E80-3937-4474-9504-31B5426156B2}
+	EndGlobalSection
+EndGlobal
